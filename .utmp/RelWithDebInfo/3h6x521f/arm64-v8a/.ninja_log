@@ -1,0 +1,12 @@
+# ninja log v5
+127	3938	7920853851083258	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e25febbcdaf210f6
+3954	4345	7920853855287062	C:/Users/luisg/Holy_Bible/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3h6x521f/obj/arm64-v8a/libswappywrapper.so	b1500291777d717d
+81	9495	7920853905910933	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d7cf4b6cb957565c
+66	9594	7920853907377480	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7d838d2476f824dc
+38	9848	7920853909207281	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2eb3842bc8b105fe
+110	9872	7920853909958893	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	801fcd22fe0279e3
+1	10356	7920853914101723	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6c9bc2a73bc7072f
+92	10453	7920853916047286	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	dd282af4ab5eef84
+50	11763	7920853928624107	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7f21f7a062cf7241
+25	12578	7920853937378597	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	79b42c874bea5970
+12578	12801	7920853939879935	C:/Users/luisg/Holy_Bible/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3h6x521f/obj/arm64-v8a/libgame.so	4d33cf8896b4f68b
