@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Text.RegularExpressions;
 
 public class Eclesiastes : MonoBehaviour
 {
@@ -102,15 +103,22 @@ public class Eclesiastes : MonoBehaviour
     SceneManager.LoadScene("Menu");
     }
 
-    void ValidarInput(
+string Normalizar(string texto)
+{
+    texto = texto.Trim().ToLowerInvariant();
+    texto = Regex.Replace(texto, @"\s+", " ");
+
+    return texto;
+}
+
+void ValidarInput(
     TMP_InputField input,
     string respuestaCorrecta,
     int numeroInput,
     ref bool hayErrores,
-    ref string mensaje
-)
+    ref string mensaje)
 {
-    // 🚨 Si el input no existe en esta escena → se ignora
+    // Si el input no existe en esta escena → se ignora
     if (input == null)
         return;
 
@@ -118,13 +126,12 @@ public class Eclesiastes : MonoBehaviour
     if (string.IsNullOrWhiteSpace(input.text))
         return;
 
-    // Si escribió algo y está mal → error
-    if (input.text != respuestaCorrecta)
+    // Comparar usando la versión normalizada
+    if (Normalizar(input.text) != Normalizar(respuestaCorrecta))
     {
         hayErrores = true;
         mensaje += $"Input {numeroInput} incorrecto\n";
     }
 }
-
 
 }

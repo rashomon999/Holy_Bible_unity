@@ -1,0 +1,23 @@
+# ninja log v5
+42	19903	8060356545786800	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6730f57e8147d074
+180	961	8060356356469123	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d8a1f788112420b4
+136	19424	8060356541053655	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	50b7544d72ccd4b0
+962	1415	8060356360792280	C:/Users/luisg/Holy_Bible/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x56l3o3/obj/arm64-v8a/libswappywrapper.so	fa6b631b3241ff90
+19904	20137	8060356548265334	C:/Users/luisg/Holy_Bible/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x56l3o3/obj/arm64-v8a/libgame.so	6d18ee72fad22824
+149	18492	8060356531399516	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9476a8e61198e20
+111	18482	8060356531409499	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	691c3d7c2e37c030
+122	19654	8060356543198524	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c630e05f0ffd6f6a
+99	18507	8060356531814141	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	987c5c6d62d7d9ef
+71	18605	8060356532834026	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8b02cb004cb8e5b1
+165	18539	8060356532249459	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8964a371860ed3b9
+268	1609	8063857603765454	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d8a1f788112420b4
+1610	2160	8063857609105729	C:/Users/luisg/Holy_Bible/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x56l3o3/obj/arm64-v8a/libswappywrapper.so	fa6b631b3241ff90
+225	22328	8063857810707981	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9476a8e61198e20
+115	22333	8063857810855459	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	987c5c6d62d7d9ef
+159	22338	8063857810707981	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	691c3d7c2e37c030
+202	22367	8063857811262996	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8964a371860ed3b9
+136	22376	8063857811339093	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8b02cb004cb8e5b1
+180	22782	8063857815475488	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	50b7544d72ccd4b0
+246	22851	8063857816124752	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c630e05f0ffd6f6a
+68	22979	8063857817354827	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6730f57e8147d074
+22980	23307	8063857820785706	C:/Users/luisg/Holy_Bible/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x56l3o3/obj/arm64-v8a/libgame.so	6d18ee72fad22824

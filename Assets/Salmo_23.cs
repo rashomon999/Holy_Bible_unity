@@ -1,9 +1,11 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
-
+using System.Text.RegularExpressions;
 public class Salmo_23 : MonoBehaviour
 {
+
+     
     // 19 Inputs
     public TMP_InputField input1, input2, input3, input4, input5;
     public TMP_InputField input6, input7, input8, input9, input10;
@@ -32,6 +34,16 @@ public class Salmo_23 : MonoBehaviour
     public string respuestaCorrecta17 = "Respuesta17";
     public string respuestaCorrecta18 = "Respuesta18";
     public string respuestaCorrecta19 = "Respuesta19";
+
+
+
+string Normalizar(string texto)
+{
+    texto = texto.Trim().ToLowerInvariant();
+    texto = Regex.Replace(texto, @"\s+", " ");
+
+    return texto;
+}
 
     public void Verificar()
     {
@@ -102,15 +114,14 @@ public class Salmo_23 : MonoBehaviour
     SceneManager.LoadScene("Menu");
     }
 
-    void ValidarInput(
+void ValidarInput(
     TMP_InputField input,
     string respuestaCorrecta,
     int numeroInput,
     ref bool hayErrores,
-    ref string mensaje
-)
+    ref string mensaje)
 {
-    // 🚨 Si el input no existe en esta escena → se ignora
+    // Si el input no existe en esta escena → se ignora
     if (input == null)
         return;
 
@@ -118,8 +129,8 @@ public class Salmo_23 : MonoBehaviour
     if (string.IsNullOrWhiteSpace(input.text))
         return;
 
-    // Si escribió algo y está mal → error
-    if (input.text != respuestaCorrecta)
+    // Comparar usando la versión normalizada
+    if (Normalizar(input.text) != Normalizar(respuestaCorrecta))
     {
         hayErrores = true;
         mensaje += $"Input {numeroInput} incorrecto\n";

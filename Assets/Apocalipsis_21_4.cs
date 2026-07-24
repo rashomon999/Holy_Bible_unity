@@ -1,20 +1,21 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Text.RegularExpressions;
 
 public class Apocalipsis_21_4 : MonoBehaviour
 {
-    // 28 Inputs
+    // 30 Inputs
     public TMP_InputField input1, input2, input3, input4, input5;
     public TMP_InputField input6, input7, input8, input9, input10;
     public TMP_InputField input11, input12, input13, input14, input15;
     public TMP_InputField input16, input17, input18, input19, input20;
     public TMP_InputField input21, input22, input23, input24, input25;
-    public TMP_InputField input26, input27, input28;
+    public TMP_InputField input26, input27, input28, input29, input30;
 
     public TMP_Text resultadoText;
 
-    // 28 Respuestas correctas
+    // 30 Respuestas correctas
     public string respuestaCorrecta1  = "Respuesta1";
     public string respuestaCorrecta2  = "Respuesta2";
     public string respuestaCorrecta3  = "Respuesta3";
@@ -43,6 +44,16 @@ public class Apocalipsis_21_4 : MonoBehaviour
     public string respuestaCorrecta26 = "Respuesta26";
     public string respuestaCorrecta27 = "Respuesta27";
     public string respuestaCorrecta28 = "Respuesta28";
+    public string respuestaCorrecta29 = "Respuesta29";
+    public string respuestaCorrecta30 = "Respuesta30";
+
+string Normalizar(string texto)
+{
+    texto = texto.Trim().ToLowerInvariant();
+    texto = Regex.Replace(texto, @"\s+", " ");
+
+    return texto;
+}
 
     public void Verificar()
     {
@@ -77,6 +88,8 @@ public class Apocalipsis_21_4 : MonoBehaviour
         ValidarInput(input26, respuestaCorrecta26, 26, ref hayErrores, ref mensajeErrores);
         ValidarInput(input27, respuestaCorrecta27, 27, ref hayErrores, ref mensajeErrores);
         ValidarInput(input28, respuestaCorrecta28, 28, ref hayErrores, ref mensajeErrores);
+        ValidarInput(input29, respuestaCorrecta29, 29, ref hayErrores, ref mensajeErrores);
+        ValidarInput(input30, respuestaCorrecta30, 30, ref hayErrores, ref mensajeErrores);
 
         if (hayErrores)
         {
@@ -118,6 +131,8 @@ public class Apocalipsis_21_4 : MonoBehaviour
         if (input26 != null) input26.text = respuestaCorrecta26;
         if (input27 != null) input27.text = respuestaCorrecta27;
         if (input28 != null) input28.text = respuestaCorrecta28;
+        if (input29 != null) input29.text = respuestaCorrecta29;
+        if (input30 != null) input30.text = respuestaCorrecta30;
     }
 
     void LoadNextScene()
@@ -131,27 +146,26 @@ public class Apocalipsis_21_4 : MonoBehaviour
         SceneManager.LoadScene("Menu");
     }
 
-    void ValidarInput(
-        TMP_InputField input,
-        string respuestaCorrecta,
-        int numeroInput,
-        ref bool hayErrores,
-        ref string mensaje
-    )
+void ValidarInput(
+    TMP_InputField input,
+    string respuestaCorrecta,
+    int numeroInput,
+    ref bool hayErrores,
+    ref string mensaje)
+{
+    // Si el input no existe en esta escena → se ignora
+    if (input == null)
+        return;
+
+    // Si está vacío, NO se valida
+    if (string.IsNullOrWhiteSpace(input.text))
+        return;
+
+    // Comparar usando la versión normalizada
+    if (Normalizar(input.text) != Normalizar(respuestaCorrecta))
     {
-        // Si el input no existe → se ignora
-        if (input == null)
-            return;
-
-        // Si está vacío → no se valida
-        if (string.IsNullOrWhiteSpace(input.text))
-            return;
-
-        // Si está incorrecto
-        if (input.text != respuestaCorrecta)
-        {
-            hayErrores = true;
-            mensaje += $"Input {numeroInput} incorrecto\n";
-        }
+        hayErrores = true;
+        mensaje += $"Input {numeroInput} incorrecto\n";
     }
+}
 }
