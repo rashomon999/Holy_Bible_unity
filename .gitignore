@@ -26,3 +26,9 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+# Android signing keys
+*.keystore
+*.jks
+*.p12
+*.pem
+key.properties
