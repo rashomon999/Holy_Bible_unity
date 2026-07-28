@@ -1,0 +1,1146 @@
+{
+  "version": 1,
+  "passages": [
+    {
+      "id": "apocalipsis_21_4",
+      "order": 1,
+      "locales": {
+        "EN": {
+          "title": "Revelation 21:4-8",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "He will wipe away every tear from their eyes",
+              "punct": ";"
+            },
+            {
+              "i": 2,
+              "answer": "and death shall be no more",
+              "punct": ","
+            },
+            {
+              "i": 3,
+              "answer": "neither shall there be mourning",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "nor crying",
+              "punct": ","
+            },
+            {
+              "i": 5,
+              "answer": "nor pain anymore",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "for the former things have passed away",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "And he who was seated on the throne said",
+              "punct": "\""
+            },
+            {
+              "i": 8,
+              "answer": "Behold",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "I am making all things new",
+              "punct": "."
+            },
+            {
+              "i": 10,
+              "answer": "Also he said",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "Write this down",
+              "punct": ","
+            },
+            {
+              "i": 12,
+              "answer": "for these words are trustworthy and true",
+              "punct": "."
+            },
+            {
+              "i": 13,
+              "answer": "And he said to me",
+              "punct": ","
+            },
+            {
+              "i": 14,
+              "answer": "It is done",
+              "punct": "!"
+            },
+            {
+              "i": 15,
+              "answer": "I am the Alpha and the Omega",
+              "punct": ","
+            },
+            {
+              "i": 16,
+              "answer": "the beginning and the end",
+              "punct": "."
+            },
+            {
+              "i": 17,
+              "answer": "To the thirsty I will give from the spring of the water of life without payment",
+              "punct": "."
+            },
+            {
+              "i": 18,
+              "answer": "The one who conquers will have this heritage",
+              "punct": ","
+            },
+            {
+              "i": 19,
+              "answer": "and I will be his God and he will be my son",
+              "punct": "."
+            },
+            {
+              "i": 20,
+              "answer": "But as for the cowardly",
+              "punct": ","
+            },
+            {
+              "i": 21,
+              "answer": "the faithless",
+              "punct": ","
+            },
+            {
+              "i": 22,
+              "answer": "the detestable",
+              "punct": ","
+            },
+            {
+              "i": 23,
+              "answer": "as for murderers",
+              "punct": ","
+            },
+            {
+              "i": 24,
+              "answer": "the sexually immoral",
+              "punct": ","
+            },
+            {
+              "i": 25,
+              "answer": "sorcerers",
+              "punct": ","
+            },
+            {
+              "i": 26,
+              "answer": "idolaters",
+              "punct": ","
+            },
+            {
+              "i": 27,
+              "answer": "and all liars",
+              "punct": ","
+            },
+            {
+              "i": 28,
+              "answer": "their portion will be in the lake that burns with fire and sulfur",
+              "punct": ","
+            },
+            {
+              "i": 29,
+              "answer": "which is the second death",
+              "punct": "\""
+            }
+          ]
+        },
+        "ES": {
+          "title": "Apocalipsis 21:4-8",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Enjugará Dios toda lágrima de los ojos de ellos",
+              "punct": ";"
+            },
+            {
+              "i": 2,
+              "answer": "y ya no habrá muerte",
+              "punct": ","
+            },
+            {
+              "i": 3,
+              "answer": "ni habrá más llanto",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "ni clamor",
+              "punct": ","
+            },
+            {
+              "i": 5,
+              "answer": "ni dolor",
+              "punct": ";"
+            },
+            {
+              "i": 6,
+              "answer": "porque las primeras cosas pasaron",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "y el que estaba sentado en el trono dijo",
+              "punct": ":"
+            },
+            {
+              "i": 8,
+              "answer": "He aquí",
+              "punct": ":"
+            },
+            {
+              "i": 9,
+              "answer": "yo hago nuevas todas las cosas",
+              "punct": "."
+            },
+            {
+              "i": 10,
+              "answer": "y me dijo",
+              "punct": ";"
+            },
+            {
+              "i": 11,
+              "answer": "Escribe",
+              "punct": "."
+            },
+            {
+              "i": 12,
+              "answer": "porque estas palabras son fieles y verdaderas",
+              "punct": "."
+            },
+            {
+              "i": 13,
+              "answer": "y me dijo",
+              "punct": ":"
+            },
+            {
+              "i": 14,
+              "answer": "Hecho está",
+              "punct": "."
+            },
+            {
+              "i": 15,
+              "answer": "Yo soy el Alfa y la Omega",
+              "punct": ","
+            },
+            {
+              "i": 16,
+              "answer": "el principio y el fin",
+              "punct": "."
+            },
+            {
+              "i": 17,
+              "answer": "Al que tuviere sed",
+              "punct": ","
+            },
+            {
+              "i": 18,
+              "answer": "yo le daré gratuitamente de la fuente del agua de la vida",
+              "punct": "."
+            },
+            {
+              "i": 19,
+              "answer": "El que venciere heredará todas las cosas",
+              "punct": ","
+            },
+            {
+              "i": 20,
+              "answer": "y yo seré su Dios",
+              "punct": ","
+            },
+            {
+              "i": 21,
+              "answer": "y el será mi hijo",
+              "punct": "."
+            },
+            {
+              "i": 22,
+              "answer": "Pero los cobardes e incrédulos",
+              "punct": ","
+            },
+            {
+              "i": 23,
+              "answer": "los abominables y homicidas",
+              "punct": ","
+            },
+            {
+              "i": 24,
+              "answer": "los fornicarios y hechiceros",
+              "punct": ","
+            },
+            {
+              "i": 25,
+              "answer": "los idólatras y todos los mentirosos tendrán su parte en el lago que arde con fuego y azufre",
+              "punct": ","
+            },
+            {
+              "i": 26,
+              "answer": "que es la muerte segunda",
+              "punct": "."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "eclesiastes_9_7_10",
+      "order": 2,
+      "locales": {
+        "EN": {
+          "title": "Ecclesiastes 9:7-10",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Go",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "eat your bread with joy",
+              "punct": ","
+            },
+            {
+              "i": 3,
+              "answer": "and drink your wine with a merry heart",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "for God has already approved what you do",
+              "punct": "."
+            },
+            {
+              "i": 5,
+              "answer": "Let your garments be always white",
+              "punct": "."
+            },
+            {
+              "i": 6,
+              "answer": "Let not oil be lacking on your head",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "Enjoy life with the wife whom you love",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "all the days of your vain life that he has given you under the sun",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "because that is your portion in life and in your toil at which you toil under the sun",
+              "punct": "."
+            },
+            {
+              "i": 10,
+              "answer": "Whatever your hand finds to do",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "do it with your might",
+              "punct": ","
+            },
+            {
+              "i": 12,
+              "answer": "for there is no work or thought or knowledge or wisdom in Sheol",
+              "punct": ","
+            },
+            {
+              "i": 13,
+              "answer": "to which you are going",
+              "punct": "."
+            }
+          ]
+        },
+        "ES": {
+          "title": "Eclesiastés 9:7-10",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Anda",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "y come tu pan con gozo",
+              "punct": ","
+            },
+            {
+              "i": 3,
+              "answer": "y bebe tu vino con alegre corazón",
+              "punct": ";"
+            },
+            {
+              "i": 4,
+              "answer": "porque tus obras ya son agradables a Dios",
+              "punct": "."
+            },
+            {
+              "i": 5,
+              "answer": "En todo tiempo sean blancos tus vestidos",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "y nunca falte ungüento sobre tu cabeza",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "Goza de la vida con la mujer que amas",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "todos los días de la vida de tu vanidad que te son dados debajo del sol",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "todos los días de tu vanidad",
+              "punct": ";"
+            },
+            {
+              "i": 10,
+              "answer": "porque ésta es tu parte en la vida",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "y en tu trabajo con que te afanas debajo del sol",
+              "punct": "."
+            },
+            {
+              "i": 12,
+              "answer": "Todo lo que te viniere a la mano para hacer",
+              "punct": ","
+            },
+            {
+              "i": 13,
+              "answer": "hazlo según tus fuerzas",
+              "punct": ";"
+            },
+            {
+              "i": 14,
+              "answer": "porque en el Seol",
+              "punct": ","
+            },
+            {
+              "i": 15,
+              "answer": "adonde vas",
+              "punct": ","
+            },
+            {
+              "i": 16,
+              "answer": "no hay obra",
+              "punct": ","
+            },
+            {
+              "i": 17,
+              "answer": "ni trabajo",
+              "punct": ","
+            },
+            {
+              "i": 18,
+              "answer": "ni ciencia",
+              "punct": ","
+            },
+            {
+              "i": 19,
+              "answer": "ni sabiduría",
+              "punct": "."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "job_1_18_22",
+      "order": 3,
+      "locales": {
+        "EN": {
+          "title": "Job 1:18-22",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "While he was yet speaking",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "there came another and said",
+              "punct": ","
+            },
+            {
+              "i": 3,
+              "answer": "Your sons and daughters were eating and drinking wine in their oldest brother's house",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "and behold",
+              "punct": ","
+            },
+            {
+              "i": 5,
+              "answer": "a great wind came across the wilderness and struck the four corners of the house",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "and it fell upon the young people",
+              "punct": ","
+            },
+            {
+              "i": 7,
+              "answer": "and they are dead",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "and I alone have escaped to tell you",
+              "punct": "\""
+            },
+            {
+              "i": 9,
+              "answer": "Then Job arose and tore his robe and shaved his head and fell on the ground and worshiped",
+              "punct": "."
+            },
+            {
+              "i": 10,
+              "answer": "And he said",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "Naked I came from my mother's womb",
+              "punct": ","
+            },
+            {
+              "i": 12,
+              "answer": "and naked shall I return",
+              "punct": "."
+            },
+            {
+              "i": 13,
+              "answer": "The LORD gave",
+              "punct": ","
+            },
+            {
+              "i": 14,
+              "answer": "and the LORD has taken away",
+              "punct": ";"
+            },
+            {
+              "i": 15,
+              "answer": "blessed be the name of the LORD",
+              "punct": "\""
+            },
+            {
+              "i": 16,
+              "answer": "In all this Job did not sin or charge God with wrong",
+              "punct": "."
+            }
+          ]
+        },
+        "ES": {
+          "title": "Job 1:18-22",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Entre tanto que éste hablaba",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "vino otro que dijo",
+              "punct": ":"
+            },
+            {
+              "i": 3,
+              "answer": "Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano el primogénito",
+              "punct": ";"
+            },
+            {
+              "i": 4,
+              "answer": "y un gran viento vino del lado del desierto y azotó las cuatro esquinas de la casa",
+              "punct": ","
+            },
+            {
+              "i": 5,
+              "answer": "la cual cayó sobre los jóvenes",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "y murieron",
+              "punct": ";"
+            },
+            {
+              "i": 7,
+              "answer": "y solamente escapé yo para darte la noticia",
+              "punct": "."
+            },
+            {
+              "i": 8,
+              "answer": "Entonces Job se levantó",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "y rasgó su manto",
+              "punct": ","
+            },
+            {
+              "i": 10,
+              "answer": "y rasuró su cabeza",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "y se postró en tierra y adoró",
+              "punct": "."
+            },
+            {
+              "i": 12,
+              "answer": "y dijo",
+              "punct": ":"
+            },
+            {
+              "i": 13,
+              "answer": "Desnudo salí del vientre de mi madre",
+              "punct": ","
+            },
+            {
+              "i": 14,
+              "answer": "y desnudo volveré allá",
+              "punct": ","
+            },
+            {
+              "i": 15,
+              "answer": "Jehová dio",
+              "punct": ","
+            },
+            {
+              "i": 16,
+              "answer": "y Jehová quitó",
+              "punct": ";"
+            },
+            {
+              "i": 17,
+              "answer": "sea el nombre de Jehová bendito",
+              "punct": "."
+            },
+            {
+              "i": 18,
+              "answer": "En todo esto no pecó Job",
+              "punct": ","
+            },
+            {
+              "i": 19,
+              "answer": "ni atribuyó a Dios despropósito alguno",
+              "punct": "."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "romanos_2_12_16",
+      "order": 4,
+      "locales": {
+        "EN": {
+          "title": "Romans 2:12-16",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "For all who have sinned without the law will also perish without the law",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "and all who have sinned under the law will be judged by the law",
+              "punct": "."
+            },
+            {
+              "i": 3,
+              "answer": "For it is not the hearers of the law who are righteous before God",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "but the doers of the law who will be justified",
+              "punct": "."
+            },
+            {
+              "i": 5,
+              "answer": "For when Gentiles",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "who do not have the law",
+              "punct": ","
+            },
+            {
+              "i": 7,
+              "answer": "by nature do what the law requires",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "they are a law to themselves",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "even though they do not have the law",
+              "punct": "."
+            },
+            {
+              "i": 10,
+              "answer": "They show that the work of the law is written on their hearts",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "while their conscience also bears witness",
+              "punct": ","
+            },
+            {
+              "i": 12,
+              "answer": "and their conflicting thoughts accuse or even excuse them on that day when",
+              "punct": ","
+            },
+            {
+              "i": 13,
+              "answer": "according to my gospel",
+              "punct": ","
+            },
+            {
+              "i": 14,
+              "answer": "God judges the secrets of men by Christ Jesus",
+              "punct": "."
+            }
+          ]
+        },
+        "ES": {
+          "title": "Romanos 2:12-16",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Porque todos los que sin ley han pecado",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "sin ley también perecerán",
+              "punct": ";"
+            },
+            {
+              "i": 3,
+              "answer": "y todos los que bajo la ley han pecado",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "por la ley serán juzgados",
+              "punct": ";"
+            },
+            {
+              "i": 5,
+              "answer": "porque no son los oidores de la ley los justos ante Dios",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "sino los hacedores de la ley serán justificados",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "Porque cuando los gentiles que no tienen ley",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "hacen por naturaleza lo que es de la ley",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "éstos",
+              "punct": ","
+            },
+            {
+              "i": 10,
+              "answer": "aunque no tengan ley",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "son ley para sí mismos",
+              "punct": ","
+            },
+            {
+              "i": 12,
+              "answer": "mostrando la obra de la ley escrita en sus corazones",
+              "punct": ","
+            },
+            {
+              "i": 13,
+              "answer": "dando testimonio su conciencia",
+              "punct": ","
+            },
+            {
+              "i": 14,
+              "answer": "y acusándoles o defendiéndoles sus razonamientos",
+              "punct": ","
+            },
+            {
+              "i": 15,
+              "answer": "en el día en que Dios juzgará por Jesucristo los secretos de los hombres",
+              "punct": ","
+            },
+            {
+              "i": 16,
+              "answer": "conforme a mi evangelio",
+              "punct": "."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "salmo_23",
+      "order": 5,
+      "locales": {
+        "EN": {
+          "title": "Psalm 23",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "The LORD is my shepherd",
+              "punct": ";"
+            },
+            {
+              "i": 2,
+              "answer": "I shall not want",
+              "punct": "."
+            },
+            {
+              "i": 3,
+              "answer": "He makes me lie down in green pastures",
+              "punct": ";"
+            },
+            {
+              "i": 4,
+              "answer": "He leads me beside still waters",
+              "punct": "."
+            },
+            {
+              "i": 5,
+              "answer": "He restores my soul",
+              "punct": "."
+            },
+            {
+              "i": 6,
+              "answer": "He leads me in paths of righteousness for his name's sake",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "Even though I walk through the valley of the shadow of death",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "I will fear no evil",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "for you are with me",
+              "punct": ";"
+            },
+            {
+              "i": 10,
+              "answer": "your rod and your staff",
+              "punct": "."
+            },
+            {
+              "i": 11,
+              "answer": "they comfort me",
+              "punct": "."
+            },
+            {
+              "i": 12,
+              "answer": "You prepare a table before me in the presence of my enemies",
+              "punct": ";"
+            },
+            {
+              "i": 13,
+              "answer": "you anoint my head with oil",
+              "punct": ";"
+            },
+            {
+              "i": 14,
+              "answer": "my cup overflows",
+              "punct": "."
+            },
+            {
+              "i": 15,
+              "answer": "Surely goodness and mercy shall follow me all the days of my life",
+              "punct": ","
+            },
+            {
+              "i": 16,
+              "answer": "and I shall dwell in the house of the LORD forever",
+              "punct": "."
+            }
+          ]
+        },
+        "ES": {
+          "title": "Salmo 23",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Jehová es mi pastor",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "nada me faltará",
+              "punct": "."
+            },
+            {
+              "i": 3,
+              "answer": "En lugares de delicados pastos me hará descansar",
+              "punct": ";"
+            },
+            {
+              "i": 4,
+              "answer": "Junto a aguas de reposo me pastoreará",
+              "punct": "."
+            },
+            {
+              "i": 5,
+              "answer": "Confortará mi alma",
+              "punct": ";"
+            },
+            {
+              "i": 6,
+              "answer": "Me guiará por sendas de justicia por amor a su nombre",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "Aunque ande en valle de sombra de muerte",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "no temeré mal alguno",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "porque tú estarás conmigo",
+              "punct": ";"
+            },
+            {
+              "i": 10,
+              "answer": "Tu vara y tu cayado me infundirán aliento",
+              "punct": "."
+            },
+            {
+              "i": 11,
+              "answer": "Aderezas mesa delante de mí en presencia de mis angustiadores",
+              "punct": ";"
+            },
+            {
+              "i": 12,
+              "answer": "Unges mi cabeza con aceite",
+              "punct": ";"
+            },
+            {
+              "i": 13,
+              "answer": "mi copa está rebosando",
+              "punct": "."
+            },
+            {
+              "i": 14,
+              "answer": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida",
+              "punct": ","
+            },
+            {
+              "i": 15,
+              "answer": "y en la casa de Jehová moraré por largos días",
+              "punct": "."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "timoteo_2_9_13",
+      "order": 6,
+      "locales": {
+        "EN": {
+          "title": "1 Timothy 2:9-13",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "likewise also that women should adorn themselves in respectable apparel",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "with modesty and self-control",
+              "punct": ","
+            },
+            {
+              "i": 3,
+              "answer": "not with braided hair and gold or pearls or costly attire",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "but with what is proper for women who profess godliness",
+              "punct": "—"
+            },
+            {
+              "i": 5,
+              "answer": "with good works",
+              "punct": "."
+            },
+            {
+              "i": 6,
+              "answer": "Let a woman learn quietly with all submissiveness",
+              "punct": "."
+            },
+            {
+              "i": 7,
+              "answer": "I do not permit a woman to teach or to exercise authority over a man",
+              "punct": ";"
+            },
+            {
+              "i": 8,
+              "answer": "rather",
+              "punct": ","
+            },
+            {
+              "i": 9,
+              "answer": "she is to remain quiet",
+              "punct": "."
+            },
+            {
+              "i": 10,
+              "answer": "For Adam was formed first",
+              "punct": ","
+            },
+            {
+              "i": 11,
+              "answer": "then Eve",
+              "punct": "."
+            }
+          ]
+        },
+        "ES": {
+          "title": "1 Timoteo 2:9-13",
+          "segments": [
+            {
+              "i": 1,
+              "answer": "Asimismo que las mujeres se atavíen de ropa decorosa",
+              "punct": ","
+            },
+            {
+              "i": 2,
+              "answer": "con pudor y modestia",
+              "punct": ";"
+            },
+            {
+              "i": 3,
+              "answer": "no con peinado ostentoso",
+              "punct": ","
+            },
+            {
+              "i": 4,
+              "answer": "ni oro",
+              "punct": ","
+            },
+            {
+              "i": 5,
+              "answer": "ni perlas",
+              "punct": ","
+            },
+            {
+              "i": 6,
+              "answer": "ni vestidos costosos",
+              "punct": ","
+            },
+            {
+              "i": 7,
+              "answer": "sino con buenas obras",
+              "punct": ","
+            },
+            {
+              "i": 8,
+              "answer": "como corresponde a mujeres que profiesan piedad",
+              "punct": "."
+            },
+            {
+              "i": 9,
+              "answer": "La mujer aprenda en silencio",
+              "punct": ","
+            },
+            {
+              "i": 10,
+              "answer": "con toda sujeción",
+              "punct": "."
+            },
+            {
+              "i": 11,
+              "answer": "Porque no permitio a la mujer enseñar",
+              "punct": ","
+            },
+            {
+              "i": 12,
+              "answer": "ni ejercer dominio sobre el hombre",
+              "punct": ","
+            },
+            {
+              "i": 13,
+              "answer": "sino estar en silencio",
+              "punct": "."
+            },
+            {
+              "i": 14,
+              "answer": "Porque Adán fue formado primero",
+              "punct": ","
+            },
+            {
+              "i": 15,
+              "answer": "después Eva",
+              "punct": ";"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
